@@ -1,0 +1,1 @@
+{"repo": {"timestamp": 1603618540000, "version": 19, "name": "f-droid archive repo", "icon": "fdroid-icon.png", "address": "https://raw.githubusercontent.com/lukassz111/f-droid-app-repo/master/archive", "description": " "}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
